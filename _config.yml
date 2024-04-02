@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Wanyu Xi / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Wanyu Xi"
-description              : &description "南京中医药大学 养老服务与管理学院"
+description              : &description "Gerontology*Consumer Psychology*Information System Management"
 url                      : https://bettyxiwanyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # example: "南京中医药大学 养老服务与管理学院"
   location         : "南京Nanjing"
-  employer         : # example: "南京中医药大学 养老服务与管理学院"
+  employer         : "南京中医药大学"
   uri              : # URL
   email            : "xiwanyu@njucm.edu.cn" 
 
