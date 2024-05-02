@@ -2,7 +2,7 @@
 title: "When less intergenerational closeness helps? The influence of intergenerational physical proximity and technology attributes on technophobia among older adults."
 collection: publications
 permalink: /publication/When-less-helps
-excerpt: '点击标题阅读中文摘要。Intergenerational contact for technology learning frequently transpires in various daily settings of older adults’ lives. However, older adults often hold negative age-based self-stereotype that they are less capable in technology use. Thus, they may experience age-based stereotype threats in such situations, which further induce technophobia. Previous research indicated that positive intergenerational contact can reduce age-based stereotype threat and technophobia among older adults. This research focuses on intergenerational physical proximity, a vital role in structuring intergenerational contact, to investigate how it impacts technophobia via age-based stereotype threat among older adults. In addition, the moderating effect of key attributes of technology—newness and ease of use were explored.'
+excerpt: '  Intergenerational contact for technology learning frequently transpires in various daily settings of older adults’ lives. However, older adults often hold negative age-based self-stereotype that they are less capable in technology use. This research focuses on intergenerational physical proximity, a vital role in structuring intergenerational contact, to investigate how it impacts technophobia via age-based stereotype threat among older adults. In addition, the moderating effect of key attributes of technology—newness and ease of use were explored.'
 date: 2022-06-01
 venue: 'Computers in Human Behavior'
 paperurl: 'http://academicpages.github.io/files/when_less_helps.pdf'
