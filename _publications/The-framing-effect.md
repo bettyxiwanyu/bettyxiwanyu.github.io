@@ -1,5 +1,4 @@
 ---
-<span style="font-size:14px;">
 title: "The Framing Effect of Intergenerational Comparison of Technologies on Technophobia Among Older Adults."
 collection: publications
 permalink: /publication/The-framing-effect
