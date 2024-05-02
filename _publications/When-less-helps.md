@@ -1,12 +1,12 @@
 ---
-title: "When less intergenerational closeness helps? The influence of intergenerational physical proximity and technology attributes on technophobia among older adults何时应该减少代际亲密程度？代际身体距离与技术属性对老年技术恐惧的影响作用研究"
+title: "When less intergenerational closeness helps? The influence of intergenerational physical proximity and technology attributes on technophobia among older adults."
 collection: publications
-permalink: /publication/When-less-intergenerational-closeness-helps
+permalink: /publication/When-less-helps
 excerpt: 'Intergenerational contact for technology learning frequently transpires in various daily settings of older adults’ lives. However, older adults often hold negative age-based self-stereotype that they are less capable in technology use. Thus, they may experience age-based stereotype threats in such situations, which further induce technophobia. Previous research indicated that positive intergenerational contact can reduce age-based stereotype threat and technophobia among older adults. This research focuses on intergenerational physical proximity, a vital role in structuring intergenerational contact, to investigate how it impacts technophobia via age-based stereotype threat among older adults. In addition, the moderating effect of key attributes of technology—newness and ease of use were explored. A vignette experiment was conducted with a sample of 243 older adults. Results show that more distant intergenerational physical proximity led to lower technophobia-personal failure dimension via more positive self-perception of aging (a manifestation of less age-based stereotype threat) when the technology is of high newness and low ease of use. However, the effect of physical proximity on technophobia was insignificant when the technology is of low newness, or of high newness but high ease of use. The findings of this research can provide detailed and practical suggestions on how to reduce technophobia among older adults through effective intergenerational contact.'
 date: 2022-06-01
 venue: 'Computers in Human Behavior'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Xi, W.*, Zhang, X. & Ayalon, L. (2022). When lessintergenerational closeness helps? The influence of intergenerational physicalproximity and technology attributes on technophobia among older adults. Computers in Human Behavior.131, 107234. '
 ---
-
+<span style="font-size:12px;">
 随着技术的不断更新，以向年轻人学习新技术为目的的代际接触经常发生在老年人的日常生活中。然而，老年人往往持有消极的老化自我刻板印象，即认为他们在技术使用方面的能力较差，这可能会使他们感受到来自年轻人的刻板印象威胁，并进一步诱发技术恐惧(technophobia)。而以往的研究表明，积极的代际接触方式可以减少老年人的老化刻板印象威胁和技术恐惧。因此，本研究关注于构建代际接触方式的一个重要因素——年轻人与老年人接触时的身体距离，探讨其对老化刻板印象威胁及技术恐惧的影响作用。同时，也探讨了新技术的关键属性——新颖性和易用性的调节作用。通过招募 243 名老年人，本研究进​​行了情景实验。结果表明，当新技术的新颖性高且易用性低时，代际接触时较远的身体距离能够产生更积极的自我老化感知(self-perception of aging，即老化刻板印象威胁的一种表现)，从而进一步带来较低的技术恐惧-个人失败的维度。然而，当新技术的新颖性低(无论易用性程度)，或新颖性高但易用性高时，代际接触时的身体距离则不存在显著的影响作用。这项研究的结果为如何通过有效的代际接触以减少老年人的技术恐惧提供了详细而实用的建议。
