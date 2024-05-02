@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<span style="font-size:14px;">
 习婉钰，南京中医药大学养老服务与管理学院副教授，老年社会学系老年心理教研室主任。
 获南京大学商学院工商管理博士学位、以色列巴伊兰大学（Bar-Ilan University）哲学博士（综合社会科学老年学方向）、以色列巴伊兰大学International MBA学位。北京大学心理与认知科学学院（行为与心理健康北京市重点实验室）访问学者（2019-2022）。
 
