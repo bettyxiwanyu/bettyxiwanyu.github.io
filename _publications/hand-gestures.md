@@ -5,7 +5,7 @@ permalink: /publication/hand-gestures
 excerpt: 'Two types of hand gestures—surface vs. motion gesture are investigated. Effects of gestures on enjoyment of marketing games are contingent on object visual presentation and reward setting. Surface gesture fits better with product picture and affects the enjoyment through mental simulation. Motion gesture interacts with reward uncertainty to impact the enjoyment through perceived control.'
 date: 2018-09-23
 venue: 'International Journal of Human-Computer Studies'
-paperurl: 'http://academicpages.github.io/files/hand_gestures.pdf'
+paperurl: 'http://bettyxiwanyu.github.io/files/hand_gestures.pdf'
 citation: 'Xi, W., Gong, H., & Wang, Q. (2019). How hand gestures influence theenjoyment in gamified mobile marketing. International Journal of Human-Computer Studies, 127, 169-180.'
 ---
 <span style="font-size:14px;">
