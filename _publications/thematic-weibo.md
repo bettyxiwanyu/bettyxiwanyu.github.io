@@ -5,7 +5,7 @@ permalink: /publication/thematic-weibo
 excerpt: '  We explored the portrayal of older adults and the public response to topics concerning older adults during the COVID-19 pandemic in Chinese social media (Weibo topics, equivalent to hashtags on Twitter). We also explored the temporal trends of dominant themes to identify changes over time.'
 date: 2020-09-03
 venue: 'The Journals of Gerontology: Series B'
-paperurl: 'http://academicpages.github.io/files/thematic_weibo.pdf'
+paperurl: 'http://bettyxiwanyu.github.io/files/thematic_weibo.pdf'
 citation: 'Wanyu Xi, Wenqian Xu, Xin Zhang, Liat Ayalon, A Thematic Analysis of Weibo Topics (Chinese Twitter Hashtags) Regarding Older Adults During the COVID-19 Outbreak, The Journals of Gerontology: Series B, Volume 76, Issue 7, September 2021, Pages e306–e312.'
 ---
 <span style="font-size:14px;">
