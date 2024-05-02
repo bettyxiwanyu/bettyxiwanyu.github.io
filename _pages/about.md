@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "个人简介"
+title: "Bio个人简介"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,3 +17,14 @@ redirect_from:
 
 <span style="font-size:16px;">
 其他工作经历：曾任以色列巴伊兰大学校长办公室国际交流处驻中国代表（2015-2018），以色列[Visualead](https://corporate.visualead.com/)科技创业公司（阿里巴巴收购）中国市场研究员（2013）。
+
+<span style="font-size:16px;">
+Wanyu Xi (Betty) is now an Associate Professor at the School of Ageing Services and Management at Nanjing University of Chinese Medicine, and the Director of the Department of Geriatric Psychology. She holds a PhD in Business Administration from Nanjing University School of Business and an International MBA from Bar-Ilan University as well. She served as a visiting scholar at Peking University's School of Psychological and Cognitive Sciences (Beijing Key Laboratory of Behavior and Mental Health) from 2019 to 2022. Her primary research interests include geriatric psychology and behavior, specifically focusing on older consumer behavior, ICT adoption, gerontechnology, and psychological aspects of human-computer interaction.
+
+She received funding from the EU Marie Curie ITN program, one of the three major European talent plans, and led a sub-project within the EuroAgeism project (No.764632, 3.88 million euros) from 2018 to 2022. Additionally, she served as a visiting researcher in the Global Campaign on Combating Ageism project group at WHO headquarters (August 2021 to December 2021). She has been involved in five national natural/social science funds and government-commissioned projects at the provincial and ministerial level.
+
+In recent years, she has published over 10 SCI and SSCI academic papers in internationally renowned gerontology journals such as the Journals of Gerontology Series B: Psychological Sciences and Social Sciences, and in psychology/human-computer interaction journals like Computers in Human Behavior and International Journal of Human-Computer Studies. Her research has been cited in WHO's "Global Report on Ageism." She has received numerous awards, including the first prize of the China Society for Aging Young Scholar Maple Plan, national gold and silver awards in the "Challenge Cup" National College Students’ Innovation and Entrepreneurship Competition, and the Chinese Government Scholarship from the Israeli Ministry of Higher Education.
+
+She also serves as a member of the Fifth Committee of Geriatric Psychology of the Chinese Society of Geriatrics and Geriatric Medicine, an external expert for the Third Research Institute of China Electronics Technology Group (focusing on smart health and elderly care industries), and a specially appointed researcher at the Pangoal Think Tank.
+
+Other work experiences include serving as the representative for international relations in the President's Office at Bar-Ilan University in China (2015-2018) and as a market researcher for Visualead in China, a tech startup acquired by Alibaba (2013).
