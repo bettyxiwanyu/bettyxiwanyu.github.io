@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-size:16px;">
-习婉钰，南京中医药大学养老服务与管理学院副教授，老年社会学系老年心理教研室主任。获南京大学商学院工商管理博士学位、以色列巴伊兰大学（Bar-Ilan University）哲学博士（综合社会科学老年学方向）、以色列巴伊兰大学International MBA学位。北京大学心理与认知科学学院（行为与心理健康北京市重点实验室）访问学者（2019-2022）。主要研究方向及兴趣为老年心理与行为，具体涉及老年群体消费行为、数字信息采纳行为，智慧养老，人机交互心理等。
+习婉钰，南京中医药大学养老服务与管理学院副教授，硕士生导师，老年社会学系老年心理教研室主任。获南京大学商学院工商管理博士学位、以色列巴伊兰大学（Bar-Ilan University）哲学博士（综合社会科学老年学方向）、以色列巴伊兰大学International MBA学位。北京大学心理与认知科学学院（行为与心理健康北京市重点实验室）访问学者（2019-2022）。主要研究方向及兴趣为老年心理与行为，具体涉及老年群体消费行为、数字信息采纳行为，智慧养老，人机交互心理等。
 
 <span style="font-size:16px;">
 获欧洲三大人才计划之一的欧盟玛丽居里学者ITN计划资助，参与并主持[EuroAgeism项目](https://cordis.europa.eu/project/id/764632)（No.764632, 388万欧元）子课题一项（2018-2022），并兼任WHO总部人口变化与健康老龄化署[Global Campaign on Combating Ageism](https://www.who.int/teams/social-determinants-of-health/demographic-change-and-healthy-ageing/combatting-ageism)项目组借调研究员（2021.8-2021.12）。先后参与国家自然科学/社会科学基金、省部级政府委托项目5项。
