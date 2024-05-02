@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wanyu Xi / Personal Homepage"
+title                    : "Wanyu Xi / Homepage"
 title_separator          : "-"
 name                     : &name "Wanyu Xi"
 description              : &description "Gerontology × Consumer Psychology × Human-computer Interaction"
