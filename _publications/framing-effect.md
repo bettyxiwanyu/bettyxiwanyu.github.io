@@ -2,7 +2,8 @@
 title: "The Framing Effect of Intergenerational Comparison of Technologies on Technophobia Among Older Adults."
 collection: publications
 permalink: /publication/framing-effect
-excerpt: '  Sharing similar negative age stereotypes (e.g., outdated, unfashionable), older adults and older technologies are stereotypically associated with each other. This also was found to be internalized by older adults. Therefore, considering the pervasiveness of intergenerational comparison of technologies (e.g., computer vs. tablet) in which older-generation technologies are negatively portrayed, we aim to investigate whether a mere intergenerational comparison of technologies would affect technophobia via negative self-stereotypes activation among older adults.'
+<span style="font-size:14px;">
+excerpt: 'Sharing similar negative age stereotypes (e.g., outdated, unfashionable), older adults and older technologies are stereotypically associated with each other. This also was found to be internalized by older adults. Therefore, considering the pervasiveness of intergenerational comparison of technologies (e.g., computer vs. tablet) in which older-generation technologies are negatively portrayed, we aim to investigate whether a mere intergenerational comparison of technologies would affect technophobia via negative self-stereotypes activation among older adults.'
 date: 2021-10-23
 venue: 'The Journals of Gerontology: Series B'
 paperurl: 'http://bettyxiwanyu.github.io/files/framing_effect.pdf'
