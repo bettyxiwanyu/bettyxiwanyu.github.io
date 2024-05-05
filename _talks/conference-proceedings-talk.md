@@ -4,6 +4,9 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/conference-proceedings-talk
 ---
+<span style="font-size:16px;">
+Click title for the list.点击题目进入列表。
+
 <span style="font-size:14px;">
 Xi, W., Zhang, X. & Ayalon, L. (Nov.2021). Presentation: When less intergenerational closeness helps? The influence of intergenerational physical proximity and technology attributes on technophobia among older adults. International Federation of Aging: 15th Global Conference on Ageing, Niagara Falls, Canada
 
