@@ -569,3 +569,11 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.project-title {
+  font-size: 18px; /* 调整标题的字体大小 */
+}
+
+.project-excerpt {
+  font-size: 16px; /* 调整摘要的字体大小 */
+}
