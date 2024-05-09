@@ -1,5 +1,5 @@
 ---
-title: "Retirement is not the end of theroad: Essentialist beliefs about aging moderate the association between futuretime perspective and retirement adjustment"
+title: "Retirement is not the end of the road: Essentialist beliefs about aging moderate the association between future time perspective and retirement adjustment"
 collection: publications
 permalink: /publication/retirement
 excerpt: 'The present study aims to investigate whether changes in future time perspective could influence individual’s retirement process and adjustment. Moreover, we would also like to test moderation effect of essentialist beliefs about aging on the association between changes in future time perspective and retirement adjustment.'
